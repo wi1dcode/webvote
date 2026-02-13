@@ -1,0 +1,34 @@
+# WebVote
+
+Application MVC en PHP permettant de publier des pétitions et de les signer.
+
+## Fonctionnalités
+
+- Inscription / Connexion
+- Gestion des utilisateurs 
+- Profil utilisateur
+- Pétitions (création, modification, suppression par l'auteur)
+- Signature d'une pétition
+- Administration (utilisateurs, visibilité des pétitions)
+
+## Architecture
+
+- `Core/` : Router, Controller, Model, Session, Request, Autoload
+- `App/Controller/`
+- `App/Model/` 
+- `App/View/`
+- `public/uploads/` : fichiers uploadés
+
+## Installation
+
+1. Copier le dossier du projet
+2. Importer le SQL : `SQL/webvote.sql`
+3. Vérifier la configuration BDD : `Core/config.xml`
+
+## Compte admin pour démonstration
+
+- Email : `admin@mail.fr`
+- Mot de passe : `administrator`
+
+## Notes
+---
