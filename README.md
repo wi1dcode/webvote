@@ -31,4 +31,5 @@ Application MVC en PHP permettant de publier des pétitions et de les signer.
 - Mot de passe : `administrator`
 
 ## Notes
----
+
+<img width="1500" height="770" alt="image" src="https://github.com/user-attachments/assets/e8339066-054b-480b-8520-fafa9ada5b71" />
