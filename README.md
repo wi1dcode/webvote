@@ -2,6 +2,13 @@
 
 Application MVC en PHP permettant de publier des pétitions et de les signer.
 
+## Démonstration
+
+- URL : https://webvote.great-site.net/
+- Email : `admin@mail.fr`
+- Mot de passe : `administrator`
+
+
 ## Fonctionnalités
 
 - Inscription / Connexion
@@ -25,11 +32,6 @@ Application MVC en PHP permettant de publier des pétitions et de les signer.
 1. Copier le dossier du projet
 2. Importer le SQL : `SQL/webvote.sql`
 3. Vérifier la configuration BDD : `Core/config.xml`
-
-## Compte admin pour démonstration
-
-- Email : `admin@mail.fr`
-- Mot de passe : `administrator`
 
 ## Notes
 
