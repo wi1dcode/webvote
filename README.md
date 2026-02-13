@@ -5,9 +5,9 @@ Application MVC en PHP permettant de publier des pétitions et de les signer.
 ## Fonctionnalités
 
 - Inscription / Connexion
-- Gestion des utilisateurs 
-- Profil utilisateur
-- Pétitions (création, modification, suppression par l'auteur)
+- Profil utilisateur ( changement MDP / Avatar )
+- Recherche, filtres
+- Pétitions (CRUD par l'auteur)
 - Commentaires
 - Signature d'une pétition
 - Administration (utilisateurs, visibilité des pétitions)
